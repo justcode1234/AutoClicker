@@ -1,0 +1,14 @@
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\bin\Debug\net9.0-windows\AutoClicker.exe
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\bin\Debug\net9.0-windows\AutoClicker.deps.json
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\bin\Debug\net9.0-windows\AutoClicker.runtimeconfig.json
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\bin\Debug\net9.0-windows\AutoClicker.dll
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\bin\Debug\net9.0-windows\AutoClicker.pdb
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.AssemblyInfo.cs
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.dll
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\refint\AutoClicker.dll
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.pdb
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\AutoClicker.genruntimeconfig.cache
+C:\Users\Jester\Documents\Coding\Github\AutoClicker\obj\Debug\net9.0-windows\ref\AutoClicker.dll
